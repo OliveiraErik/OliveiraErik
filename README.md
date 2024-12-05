@@ -1,6 +1,6 @@
 ## Olá meu nome é Erik Dias, e sou estudante de programação
 
-Comecei a estudar programação no início de Maio/202 atraves do curso Full Stack JavaScript, na plataforma da [onebitcode](https://onebitcode.com/lp/)
+Comecei a estudar programação no início de Maio/202 atraves do curso Full Stack JavaScript, na plataforma da [onebitcode](https://onebitcode.com/)
 e atualmente estou Cursando Engenharia de Software na [UMC (Universidade de Mogi das cruzes)]
 
 
